@@ -1,0 +1,30 @@
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.csproj.AssemblyReference.cache
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.AssemblyInfoInputs.cache
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.AssemblyInfo.cs
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.csproj.CoreCompileInputs.cache
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\bin\Debug\net7.0\BibliotecaOOP.exe
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\bin\Debug\net7.0\BibliotecaOOP.deps.json
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\bin\Debug\net7.0\BibliotecaOOP.runtimeconfig.json
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\bin\Debug\net7.0\BibliotecaOOP.dll
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\bin\Debug\net7.0\BibliotecaOOP.pdb
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.dll
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\refint\BibliotecaOOP.dll
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.pdb
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.genruntimeconfig.cache
+C:\Users\Andreia\Estudos\RDI\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\ref\BibliotecaOOP.dll
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\bin\Debug\net7.0\BibliotecaOOP.exe
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\bin\Debug\net7.0\BibliotecaOOP.deps.json
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\bin\Debug\net7.0\BibliotecaOOP.runtimeconfig.json
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\bin\Debug\net7.0\BibliotecaOOP.dll
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\bin\Debug\net7.0\BibliotecaOOP.pdb
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.csproj.AssemblyReference.cache
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.AssemblyInfoInputs.cache
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.AssemblyInfo.cs
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.csproj.CoreCompileInputs.cache
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.dll
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\refint\BibliotecaOOP.dll
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.pdb
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\BibliotecaOOP.genruntimeconfig.cache
+C:\Users\Andreia\Estudos\Estudos independentes\Desenvolvimento\portfolio\BibliotecaOOP\BibliotecaOOP\obj\Debug\net7.0\ref\BibliotecaOOP.dll
