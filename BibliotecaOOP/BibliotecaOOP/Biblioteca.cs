@@ -8,8 +8,8 @@ namespace BibliotecaOOP
 {
     public class Biblioteca
     {
-        public List<Pessoa> Pessoas { get; set; }
-        public List<Livro> Livros { get; set; }
+        private List<Pessoa> Pessoas { get; set; }
+        private List<Livro> Livros { get; set; }
 
         public Biblioteca(List<Pessoa> pessoas, List<Livro> livros)
         {
@@ -85,21 +85,33 @@ namespace BibliotecaOOP
 
         public void ListarPessoas()
         {
-
-            foreach (var pessoa in Pessoas)
+            if (Pessoas == null || Pessoas.Count <= 0)
             {
-                Console.WriteLine(pessoa.ObterNomePessoa());
+                Console.WriteLine("Não há pessoas cadastradas.");
+            }
+            else
+            {
+                foreach (var pessoa in Pessoas)
+                {
+                    Console.WriteLine(pessoa.ObterNomePessoa());
+                }
             }
         }
 
         public void ListarLivros()
         {
-
-            foreach (var livro in Livros)
+            if (Livros == null || Livros.Count <= 0)
             {
-                Console.WriteLine($"Título: {livro.Titulo}\n" +
-                    $"Quantidade de exemplar(es) disponíveis para empréstimo: {livro.ObterQntExemplaresAtual()}\n" +
-                    $"Quantidade de exemplar(es) total: {livro.ObterQntExemplaresTotal()}\n");
+                Console.WriteLine("Não há livros cadastrados.");
+            }
+            else
+            {
+                foreach (var livro in Livros)
+                {
+                    Console.WriteLine($"Título: {livro.Titulo}\n" +
+                        $"Quantidade de exemplar(es) disponíveis para empréstimo: {livro.ObterQntExemplaresAtual()}\n" +
+                        $"Quantidade de exemplar(es) total: {livro.ObterQntExemplaresTotal()}\n");
+                }
             }
         }
 

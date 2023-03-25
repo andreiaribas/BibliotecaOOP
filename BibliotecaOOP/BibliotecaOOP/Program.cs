@@ -42,7 +42,7 @@ namespace BibliotecaOOP
                 {
                     case "1":
                         Console.WriteLine("Para cadastrar a pessoa, digite os seguintes dados:");
-                        Console.Write("ID:");
+                        Console.Write("ID: ");
                         int idPessoa = int.Parse(Console.ReadLine());
 
                         if (novaBiblioteca1.PessoaJaCadastrada(idPessoa))
@@ -51,13 +51,13 @@ namespace BibliotecaOOP
                             break;
                         }
 
-                        Console.Write("Nome:");
+                        Console.Write("Nome: ");
                         string nome = Console.ReadLine();
 
-                        Console.Write("CPF:");
+                        Console.Write("CPF: ");
                         string cpf = Console.ReadLine();
 
-                        Console.Write("Telefone:");
+                        Console.Write("Telefone: ");
                         string tel = Console.ReadLine();
 
                         Pessoa novaPessoa = new Pessoa(idPessoa, nome, cpf, tel);
